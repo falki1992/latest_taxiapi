@@ -1,0 +1,88 @@
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[31-Dec-2024 04:53:20 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[31-Dec-2024 04:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[31-Dec-2024 04:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[31-Dec-2024 04:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[02-Feb-2025 07:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[02-Feb-2025 13:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[02-Feb-2025 17:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[02-Feb-2025 17:37:27 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[25-Feb-2025 03:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[08-Mar-2025 23:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[09-Mar-2025 04:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[09-Mar-2025 11:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[09-Mar-2025 11:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[14-Mar-2025 15:56:24 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[15-Mar-2025 05:26:44 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[15-Mar-2025 05:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[10-Apr-2025 23:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[11-Apr-2025 02:32:32 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[11-Apr-2025 07:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8
+[11-Apr-2025 07:37:34 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/tests/Feature/ExampleTest.php on line 8

@@ -1,0 +1,276 @@
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[31-Dec-2024 04:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[18-Jan-2025 21:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[18-Jan-2025 21:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[02-Feb-2025 02:15:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[02-Feb-2025 03:01:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[02-Feb-2025 03:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[02-Feb-2025 05:28:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[02-Feb-2025 05:58:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[02-Feb-2025 06:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[02-Feb-2025 09:14:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[02-Feb-2025 09:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[02-Feb-2025 11:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[02-Feb-2025 11:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[02-Feb-2025 16:27:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[02-Feb-2025 16:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[02-Feb-2025 17:03:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[02-Feb-2025 17:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[02-Feb-2025 17:40:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[02-Feb-2025 17:43:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[19-Feb-2025 06:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[19-Feb-2025 06:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[19-Feb-2025 07:01:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[19-Feb-2025 07:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[19-Feb-2025 11:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[19-Feb-2025 11:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[19-Feb-2025 11:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[19-Feb-2025 11:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[26-Feb-2025 18:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[26-Feb-2025 18:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[26-Feb-2025 18:35:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[26-Feb-2025 18:36:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[27-Feb-2025 13:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[27-Feb-2025 13:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[27-Feb-2025 13:36:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[27-Feb-2025 13:37:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[08-Mar-2025 22:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[08-Mar-2025 22:44:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[08-Mar-2025 23:05:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[09-Mar-2025 01:35:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[09-Mar-2025 01:51:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[09-Mar-2025 02:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[09-Mar-2025 03:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[09-Mar-2025 03:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[09-Mar-2025 05:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[09-Mar-2025 07:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[09-Mar-2025 07:56:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[09-Mar-2025 09:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[09-Mar-2025 09:58:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[09-Mar-2025 10:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[09-Mar-2025 11:44:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[09-Mar-2025 12:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[11-Apr-2025 00:27:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[11-Apr-2025 01:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[11-Apr-2025 01:35:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9
+[11-Apr-2025 01:38:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[11-Apr-2025 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[11-Apr-2025 04:46:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[11-Apr-2025 04:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[11-Apr-2025 05:29:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[11-Apr-2025 05:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[11-Apr-2025 05:48:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[11-Apr-2025 06:03:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UserTypesTableSeeder.php on line 9
+[11-Apr-2025 06:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[11-Apr-2025 06:28:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/UsersTableSeeder.php on line 8
+[11-Apr-2025 08:10:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[11-Apr-2025 09:23:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/DatabaseSeeder.php on line 8
+[11-Apr-2025 14:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/seeders/CarTypesTableSeeder.php on line 9

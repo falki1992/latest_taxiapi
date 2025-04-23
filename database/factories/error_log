@@ -1,0 +1,72 @@
+[18-Jan-2025 21:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[02-Feb-2025 03:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[02-Feb-2025 14:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[02-Feb-2025 15:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[02-Feb-2025 17:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[19-Feb-2025 13:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[19-Feb-2025 22:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[07-Mar-2025 02:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[08-Mar-2025 00:04:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[08-Mar-2025 00:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[08-Mar-2025 23:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[09-Mar-2025 01:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[09-Mar-2025 07:53:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[09-Mar-2025 12:11:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[11-Apr-2025 01:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[11-Apr-2025 03:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[11-Apr-2025 06:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12
+[11-Apr-2025 08:44:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/database/factories/UserFactory.php on line 12

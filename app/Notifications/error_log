@@ -1,0 +1,80 @@
+[30-Dec-2024 20:11:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[18-Jan-2025 22:01:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[18-Jan-2025 23:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[02-Feb-2025 09:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[02-Feb-2025 10:41:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[02-Feb-2025 12:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[02-Feb-2025 18:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[19-Feb-2025 04:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[26-Feb-2025 01:32:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[08-Mar-2025 23:08:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[09-Mar-2025 01:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[09-Mar-2025 05:37:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[09-Mar-2025 06:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[14-Mar-2025 16:29:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[14-Mar-2025 22:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[14-Mar-2025 22:21:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[05-Apr-2025 08:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[10-Apr-2025 23:07:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[10-Apr-2025 23:43:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11
+[11-Apr-2025 12:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Notifications/SendPushNotification.php on line 11

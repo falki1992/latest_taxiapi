@@ -1,0 +1,348 @@
+[30-Dec-2024 20:03:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[30-Dec-2024 20:04:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[30-Dec-2024 20:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[30-Dec-2024 20:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[30-Dec-2024 20:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[30-Dec-2024 20:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[30-Dec-2024 20:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[02-Feb-2025 02:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[02-Feb-2025 03:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[02-Feb-2025 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[02-Feb-2025 04:39:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[02-Feb-2025 06:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[02-Feb-2025 06:51:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[02-Feb-2025 08:46:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[02-Feb-2025 10:03:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[02-Feb-2025 10:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[02-Feb-2025 10:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[02-Feb-2025 11:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[02-Feb-2025 12:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[02-Feb-2025 12:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[02-Feb-2025 12:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[02-Feb-2025 13:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[02-Feb-2025 14:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[02-Feb-2025 15:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[02-Feb-2025 16:52:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[02-Feb-2025 17:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[02-Feb-2025 18:04:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[24-Feb-2025 23:01:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[24-Feb-2025 23:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[24-Feb-2025 23:02:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[24-Feb-2025 23:02:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[24-Feb-2025 23:03:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[07-Mar-2025 00:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[07-Mar-2025 00:32:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[07-Mar-2025 00:32:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[07-Mar-2025 00:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[07-Mar-2025 00:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[08-Mar-2025 22:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[08-Mar-2025 23:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[08-Mar-2025 23:29:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[09-Mar-2025 00:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[09-Mar-2025 00:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[09-Mar-2025 01:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[09-Mar-2025 04:02:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[09-Mar-2025 04:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[09-Mar-2025 06:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[09-Mar-2025 08:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[09-Mar-2025 08:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[09-Mar-2025 10:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[09-Mar-2025 12:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[09-Mar-2025 13:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[09-Mar-2025 14:00:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[14-Mar-2025 14:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[14-Mar-2025 14:49:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[14-Mar-2025 14:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[14-Mar-2025 14:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[14-Mar-2025 14:51:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[15-Mar-2025 04:53:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[15-Mar-2025 04:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[15-Mar-2025 04:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[15-Mar-2025 04:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[15-Mar-2025 04:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[15-Mar-2025 05:02:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[15-Mar-2025 05:03:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[15-Mar-2025 05:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[15-Mar-2025 05:06:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[15-Mar-2025 05:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[05-Apr-2025 08:15:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[05-Apr-2025 10:33:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[05-Apr-2025 14:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[05-Apr-2025 14:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[05-Apr-2025 21:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[10-Apr-2025 20:51:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[10-Apr-2025 21:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[11-Apr-2025 01:05:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[11-Apr-2025 01:16:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[11-Apr-2025 01:26:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Apr-2025 02:02:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[11-Apr-2025 02:09:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[11-Apr-2025 02:15:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[11-Apr-2025 03:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/EventServiceProvider.php on line 12
+[11-Apr-2025 04:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AuthServiceProvider.php on line 9
+[11-Apr-2025 07:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[11-Apr-2025 07:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/AppServiceProvider.php on line 9
+[11-Apr-2025 07:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Apr-2025 07:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/RouteServiceProvider.php on line 11
+[11-Apr-2025 09:00:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Providers/BroadcastServiceProvider.php on line 8

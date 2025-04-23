@@ -1,0 +1,576 @@
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[31-Dec-2024 04:53:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[31-Dec-2024 04:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[31-Dec-2024 04:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[04-Feb-2025 20:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 8
+[04-Feb-2025 21:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[04-Feb-2025 22:50:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[04-Feb-2025 23:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[04-Feb-2025 23:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[04-Feb-2025 23:38:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Feb-2025 00:03:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 8
+[05-Feb-2025 00:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Feb-2025 00:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Feb-2025 00:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 27
+[05-Feb-2025 00:47:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Feb-2025 00:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 8
+[05-Feb-2025 01:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 27
+[05-Feb-2025 01:48:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Feb-2025 02:39:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Feb-2025 03:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 27
+[05-Feb-2025 03:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Feb-2025 03:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Feb-2025 05:57:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[05-Feb-2025 06:02:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Feb-2025 06:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Feb-2025 07:07:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Feb-2025 07:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[05-Feb-2025 07:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Feb-2025 09:17:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Feb-2025 09:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[05-Feb-2025 10:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[05-Feb-2025 11:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Feb-2025 11:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 8
+[05-Feb-2025 11:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 27
+[05-Feb-2025 12:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[05-Feb-2025 13:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[18-Feb-2025 23:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 8
+[18-Feb-2025 23:53:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[18-Feb-2025 23:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[18-Feb-2025 23:57:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 28
+[18-Feb-2025 23:57:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[18-Feb-2025 23:57:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[19-Feb-2025 00:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[19-Feb-2025 00:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[25-Feb-2025 08:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[25-Feb-2025 08:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[25-Feb-2025 08:41:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[25-Feb-2025 08:43:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 28
+[25-Feb-2025 08:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[25-Feb-2025 08:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[25-Feb-2025 08:56:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[25-Feb-2025 08:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 8
+[06-Mar-2025 11:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[06-Mar-2025 14:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[06-Mar-2025 16:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[06-Mar-2025 16:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[06-Mar-2025 16:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[06-Mar-2025 19:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[06-Mar-2025 20:45:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[06-Mar-2025 20:51:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[08-Mar-2025 22:47:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 28
+[08-Mar-2025 23:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[09-Mar-2025 00:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[09-Mar-2025 00:43:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[09-Mar-2025 00:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[09-Mar-2025 01:40:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[09-Mar-2025 02:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[09-Mar-2025 02:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[09-Mar-2025 03:41:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[09-Mar-2025 03:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[09-Mar-2025 04:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[09-Mar-2025 06:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[09-Mar-2025 07:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[09-Mar-2025 07:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 28
+[09-Mar-2025 08:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[09-Mar-2025 08:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[09-Mar-2025 08:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[09-Mar-2025 09:08:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[09-Mar-2025 09:21:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[09-Mar-2025 09:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[09-Mar-2025 09:44:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[09-Mar-2025 09:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[09-Mar-2025 10:02:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[09-Mar-2025 10:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[09-Mar-2025 11:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[09-Mar-2025 11:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[09-Mar-2025 12:20:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 28
+[09-Mar-2025 13:17:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 28
+[09-Mar-2025 13:29:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[09-Mar-2025 13:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[09-Mar-2025 13:58:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 13
+[09-Mar-2025 14:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[14-Mar-2025 14:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[14-Mar-2025 14:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 17
+[14-Mar-2025 14:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[14-Mar-2025 14:26:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[14-Mar-2025 14:32:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[14-Mar-2025 14:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[14-Mar-2025 14:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[14-Mar-2025 14:37:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[14-Mar-2025 15:02:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[14-Mar-2025 15:05:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Apr-2025 10:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[05-Apr-2025 10:04:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Apr-2025 10:17:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[05-Apr-2025 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[05-Apr-2025 10:38:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Apr-2025 10:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[05-Apr-2025 10:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[05-Apr-2025 11:16:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Apr-2025 11:32:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Apr-2025 11:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[05-Apr-2025 11:38:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[05-Apr-2025 11:42:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[05-Apr-2025 11:50:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[05-Apr-2025 12:01:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Apr-2025 12:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[05-Apr-2025 12:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Apr-2025 13:26:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Apr-2025 13:41:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Apr-2025 13:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[05-Apr-2025 14:03:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Apr-2025 15:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/JazzCashController.php on line 12
+[05-Apr-2025 15:52:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Apr-2025 16:10:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/WhatsAppController.php on line 9
+[05-Apr-2025 16:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Apr-2025 17:02:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 17
+[05-Apr-2025 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[05-Apr-2025 17:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/ChatController.php on line 11
+[05-Apr-2025 17:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Apr-2025 17:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11
+[05-Apr-2025 18:09:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[05-Apr-2025 18:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CarTypeController.php on line 12
+[05-Apr-2025 19:06:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[05-Apr-2025 20:36:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 17
+[05-Apr-2025 20:36:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 17
+[05-Apr-2025 20:44:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverTransactionController.php on line 17
+[05-Apr-2025 20:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[05-Apr-2025 21:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/CustomerMessageController.php on line 10
+[05-Apr-2025 22:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/OrderController.php on line 17
+[05-Apr-2025 22:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Controller.php on line 9
+[05-Apr-2025 23:08:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverMessageController.php on line 11

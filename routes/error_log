@@ -1,0 +1,452 @@
+[30-Dec-2024 19:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[30-Dec-2024 19:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[30-Dec-2024 19:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[30-Dec-2024 19:54:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[30-Dec-2024 19:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[30-Dec-2024 19:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[30-Dec-2024 19:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[30-Dec-2024 19:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[31-Dec-2024 04:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[31-Dec-2024 04:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[31-Dec-2024 04:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[31-Dec-2024 04:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[18-Jan-2025 21:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[18-Jan-2025 21:10:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[18-Jan-2025 22:41:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[18-Jan-2025 22:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[30-Jan-2025 09:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[30-Jan-2025 13:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[30-Jan-2025 14:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[30-Jan-2025 14:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[30-Jan-2025 16:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[30-Jan-2025 17:43:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[30-Jan-2025 18:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[30-Jan-2025 19:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[30-Jan-2025 19:17:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[30-Jan-2025 19:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[30-Jan-2025 19:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[30-Jan-2025 20:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[30-Jan-2025 20:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[30-Jan-2025 20:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[30-Jan-2025 20:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[30-Jan-2025 23:46:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[19-Feb-2025 02:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[19-Feb-2025 02:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[19-Feb-2025 03:05:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[19-Feb-2025 03:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[19-Feb-2025 08:59:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[19-Feb-2025 12:44:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[19-Feb-2025 15:45:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[19-Feb-2025 17:28:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[19-Feb-2025 22:33:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[19-Feb-2025 22:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[19-Feb-2025 22:35:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[19-Feb-2025 22:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[20-Feb-2025 19:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[20-Feb-2025 19:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[20-Feb-2025 19:55:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[20-Feb-2025 20:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[25-Feb-2025 11:20:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[25-Feb-2025 18:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[26-Feb-2025 21:27:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[27-Feb-2025 05:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[27-Feb-2025 10:40:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[27-Feb-2025 10:41:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[27-Feb-2025 10:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[27-Feb-2025 11:02:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[27-Feb-2025 11:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[27-Feb-2025 11:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[27-Feb-2025 11:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[27-Feb-2025 11:55:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[27-Feb-2025 12:10:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[27-Feb-2025 12:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[27-Feb-2025 12:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[27-Feb-2025 12:39:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[01-Mar-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[01-Mar-2025 02:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[01-Mar-2025 02:48:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[01-Mar-2025 02:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 21
+[03-Mar-2025 11:31:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[03-Mar-2025 16:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[03-Mar-2025 20:16:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[04-Mar-2025 01:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[09-Mar-2025 00:35:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[09-Mar-2025 01:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[09-Mar-2025 03:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[09-Mar-2025 04:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[09-Mar-2025 05:37:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[09-Mar-2025 05:57:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[09-Mar-2025 07:15:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[09-Mar-2025 07:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[09-Mar-2025 08:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[09-Mar-2025 09:56:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[09-Mar-2025 13:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[09-Mar-2025 14:21:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[14-Mar-2025 16:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[14-Mar-2025 16:22:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[14-Mar-2025 16:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[14-Mar-2025 17:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[05-Apr-2025 11:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[05-Apr-2025 15:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[05-Apr-2025 16:40:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[05-Apr-2025 21:39:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[10-Apr-2025 19:13:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[10-Apr-2025 19:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[10-Apr-2025 21:42:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[11-Apr-2025 00:43:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[11-Apr-2025 00:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[11-Apr-2025 00:46:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[11-Apr-2025 03:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/web.php on line 17
+[11-Apr-2025 03:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23
+[11-Apr-2025 04:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[11-Apr-2025 04:59:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/console.php on line 17
+[11-Apr-2025 06:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/channels.php on line 21
+[11-Apr-2025 09:08:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 23

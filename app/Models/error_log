@@ -1,0 +1,1796 @@
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[31-Dec-2024 04:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[31-Dec-2024 04:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[31-Dec-2024 04:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[31-Dec-2024 04:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[31-Dec-2024 04:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[31-Dec-2024 04:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[18-Jan-2025 20:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[18-Jan-2025 20:57:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[18-Jan-2025 20:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[18-Jan-2025 22:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[18-Jan-2025 22:29:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[18-Jan-2025 22:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[18-Jan-2025 22:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[18-Jan-2025 22:31:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[02-Feb-2025 02:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[02-Feb-2025 02:35:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[02-Feb-2025 03:30:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[02-Feb-2025 03:47:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[02-Feb-2025 04:09:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[02-Feb-2025 04:30:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[02-Feb-2025 04:55:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[02-Feb-2025 04:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[02-Feb-2025 05:11:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[02-Feb-2025 05:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[02-Feb-2025 05:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[02-Feb-2025 05:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[02-Feb-2025 06:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[02-Feb-2025 06:19:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[02-Feb-2025 06:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[02-Feb-2025 06:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[02-Feb-2025 06:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[02-Feb-2025 06:55:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[02-Feb-2025 06:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[02-Feb-2025 07:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[02-Feb-2025 07:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[02-Feb-2025 07:22:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[02-Feb-2025 07:37:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[02-Feb-2025 08:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[02-Feb-2025 08:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[02-Feb-2025 08:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[02-Feb-2025 08:21:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[02-Feb-2025 08:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[02-Feb-2025 08:53:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[02-Feb-2025 09:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[02-Feb-2025 09:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[02-Feb-2025 09:46:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[02-Feb-2025 10:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[02-Feb-2025 10:30:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[02-Feb-2025 10:44:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[02-Feb-2025 10:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[02-Feb-2025 11:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[02-Feb-2025 12:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[02-Feb-2025 12:19:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[02-Feb-2025 12:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[02-Feb-2025 12:40:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[02-Feb-2025 12:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[02-Feb-2025 12:47:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[02-Feb-2025 12:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[02-Feb-2025 13:03:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[02-Feb-2025 13:08:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[02-Feb-2025 13:08:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[02-Feb-2025 13:09:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[02-Feb-2025 13:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[02-Feb-2025 13:13:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[02-Feb-2025 13:47:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[02-Feb-2025 13:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[02-Feb-2025 13:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[02-Feb-2025 13:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[02-Feb-2025 14:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[02-Feb-2025 14:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[02-Feb-2025 14:41:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[02-Feb-2025 14:44:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[02-Feb-2025 15:07:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[02-Feb-2025 15:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[02-Feb-2025 15:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[02-Feb-2025 16:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[02-Feb-2025 16:29:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[02-Feb-2025 16:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[02-Feb-2025 16:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[02-Feb-2025 16:59:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[02-Feb-2025 17:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[02-Feb-2025 17:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[02-Feb-2025 17:38:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[02-Feb-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[02-Feb-2025 18:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[02-Feb-2025 20:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[25-Feb-2025 04:44:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[25-Feb-2025 04:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[25-Feb-2025 04:46:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[25-Feb-2025 04:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[25-Feb-2025 04:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[25-Feb-2025 04:49:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[25-Feb-2025 04:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[25-Feb-2025 04:51:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[25-Feb-2025 04:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[25-Feb-2025 04:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[25-Feb-2025 04:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[25-Feb-2025 04:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[25-Feb-2025 04:58:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[25-Feb-2025 05:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[25-Feb-2025 05:06:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[25-Feb-2025 05:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[25-Feb-2025 05:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[25-Feb-2025 09:39:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[25-Feb-2025 09:40:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[06-Mar-2025 05:20:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[06-Mar-2025 05:27:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[06-Mar-2025 08:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[06-Mar-2025 08:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[06-Mar-2025 09:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[06-Mar-2025 09:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[06-Mar-2025 12:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[06-Mar-2025 13:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[06-Mar-2025 15:37:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[06-Mar-2025 17:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[06-Mar-2025 18:23:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[06-Mar-2025 20:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[07-Mar-2025 01:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[07-Mar-2025 01:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[07-Mar-2025 01:02:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[07-Mar-2025 01:02:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[07-Mar-2025 01:02:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[07-Mar-2025 01:04:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[07-Mar-2025 01:05:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[07-Mar-2025 01:07:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[07-Mar-2025 01:08:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[07-Mar-2025 01:10:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[07-Mar-2025 01:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[07-Mar-2025 01:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[07-Mar-2025 01:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[07-Mar-2025 01:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[07-Mar-2025 01:15:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[07-Mar-2025 01:17:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[07-Mar-2025 01:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[07-Mar-2025 01:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[07-Mar-2025 01:27:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[07-Mar-2025 01:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[07-Mar-2025 01:53:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[07-Mar-2025 18:35:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[07-Mar-2025 18:36:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[07-Mar-2025 18:37:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[07-Mar-2025 18:38:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[07-Mar-2025 18:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[07-Mar-2025 18:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[07-Mar-2025 18:42:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[07-Mar-2025 18:43:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[07-Mar-2025 18:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[07-Mar-2025 18:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[07-Mar-2025 18:47:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[07-Mar-2025 18:48:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[07-Mar-2025 18:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[07-Mar-2025 18:50:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[07-Mar-2025 18:51:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[07-Mar-2025 18:54:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[07-Mar-2025 18:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[07-Mar-2025 18:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[07-Mar-2025 18:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[07-Mar-2025 19:01:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[07-Mar-2025 19:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[07-Mar-2025 19:08:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[07-Mar-2025 19:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[07-Mar-2025 19:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[07-Mar-2025 19:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[07-Mar-2025 19:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[07-Mar-2025 19:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[07-Mar-2025 19:27:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[07-Mar-2025 19:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[07-Mar-2025 19:29:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[07-Mar-2025 19:30:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[07-Mar-2025 19:31:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[07-Mar-2025 19:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[07-Mar-2025 19:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[07-Mar-2025 19:34:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[07-Mar-2025 19:35:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[07-Mar-2025 19:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[07-Mar-2025 19:39:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[07-Mar-2025 19:43:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[07-Mar-2025 19:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[07-Mar-2025 19:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[07-Mar-2025 19:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[07-Mar-2025 19:47:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[08-Mar-2025 22:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[08-Mar-2025 22:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[08-Mar-2025 23:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[08-Mar-2025 23:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[08-Mar-2025 23:24:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[08-Mar-2025 23:42:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[09-Mar-2025 00:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[09-Mar-2025 00:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[09-Mar-2025 00:20:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[09-Mar-2025 00:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[09-Mar-2025 00:55:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[09-Mar-2025 01:20:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[09-Mar-2025 01:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[09-Mar-2025 01:51:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[09-Mar-2025 02:00:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[09-Mar-2025 02:03:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[09-Mar-2025 02:17:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[09-Mar-2025 02:17:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[09-Mar-2025 02:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[09-Mar-2025 02:29:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[09-Mar-2025 02:35:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[09-Mar-2025 02:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[09-Mar-2025 03:00:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[09-Mar-2025 03:09:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[09-Mar-2025 03:13:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[09-Mar-2025 03:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[09-Mar-2025 03:50:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[09-Mar-2025 04:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[09-Mar-2025 04:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[09-Mar-2025 04:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[09-Mar-2025 04:19:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[09-Mar-2025 04:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[09-Mar-2025 04:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[09-Mar-2025 05:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[09-Mar-2025 05:21:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[09-Mar-2025 05:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[09-Mar-2025 05:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[09-Mar-2025 06:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[09-Mar-2025 06:05:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[09-Mar-2025 06:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[09-Mar-2025 06:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[09-Mar-2025 06:52:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[09-Mar-2025 06:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[09-Mar-2025 07:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[09-Mar-2025 07:22:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[09-Mar-2025 07:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[09-Mar-2025 07:59:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[09-Mar-2025 08:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[09-Mar-2025 08:14:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[09-Mar-2025 08:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[09-Mar-2025 08:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[09-Mar-2025 08:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[09-Mar-2025 08:54:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[09-Mar-2025 09:40:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[09-Mar-2025 09:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[09-Mar-2025 10:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[09-Mar-2025 10:21:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[09-Mar-2025 10:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[09-Mar-2025 11:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[09-Mar-2025 11:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[09-Mar-2025 11:21:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[09-Mar-2025 11:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[09-Mar-2025 11:50:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[09-Mar-2025 12:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[09-Mar-2025 12:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[09-Mar-2025 12:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[09-Mar-2025 12:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[09-Mar-2025 12:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[09-Mar-2025 12:58:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[09-Mar-2025 13:19:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[09-Mar-2025 13:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[09-Mar-2025 13:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[14-Mar-2025 15:28:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[14-Mar-2025 15:29:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[14-Mar-2025 15:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[14-Mar-2025 15:32:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[14-Mar-2025 15:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[14-Mar-2025 15:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[14-Mar-2025 15:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[14-Mar-2025 15:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[14-Mar-2025 15:38:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[14-Mar-2025 15:39:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[14-Mar-2025 15:40:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[14-Mar-2025 15:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[14-Mar-2025 15:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[14-Mar-2025 15:44:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[14-Mar-2025 15:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[14-Mar-2025 15:47:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[14-Mar-2025 15:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[14-Mar-2025 15:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[14-Mar-2025 15:53:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[14-Mar-2025 15:54:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[14-Mar-2025 16:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[14-Mar-2025 16:18:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[14-Mar-2025 20:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[14-Mar-2025 20:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[14-Mar-2025 20:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[14-Mar-2025 20:20:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[14-Mar-2025 20:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[14-Mar-2025 20:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[14-Mar-2025 20:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[14-Mar-2025 20:25:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[14-Mar-2025 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[14-Mar-2025 20:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[14-Mar-2025 20:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[14-Mar-2025 20:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[14-Mar-2025 20:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[14-Mar-2025 20:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[14-Mar-2025 20:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[14-Mar-2025 20:36:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[14-Mar-2025 20:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[14-Mar-2025 20:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[14-Mar-2025 20:41:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[14-Mar-2025 20:42:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[14-Mar-2025 20:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[14-Mar-2025 21:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[14-Mar-2025 21:10:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[14-Mar-2025 21:11:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[14-Mar-2025 21:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[14-Mar-2025 21:13:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[14-Mar-2025 21:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[14-Mar-2025 21:17:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[14-Mar-2025 21:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[14-Mar-2025 21:19:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[14-Mar-2025 21:20:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[14-Mar-2025 21:21:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[14-Mar-2025 21:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[14-Mar-2025 21:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[14-Mar-2025 21:26:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[14-Mar-2025 21:27:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[14-Mar-2025 21:28:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[14-Mar-2025 21:32:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[14-Mar-2025 21:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[14-Mar-2025 21:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[14-Mar-2025 21:35:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[14-Mar-2025 21:36:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[15-Mar-2025 03:08:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[15-Mar-2025 03:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[15-Mar-2025 03:08:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[15-Mar-2025 03:08:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[15-Mar-2025 03:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[15-Mar-2025 03:09:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[15-Mar-2025 03:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[15-Mar-2025 03:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[15-Mar-2025 03:12:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[15-Mar-2025 03:14:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[15-Mar-2025 03:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[15-Mar-2025 03:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[15-Mar-2025 03:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[15-Mar-2025 03:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[15-Mar-2025 03:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[15-Mar-2025 03:20:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[15-Mar-2025 03:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[15-Mar-2025 03:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[15-Mar-2025 03:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[15-Mar-2025 03:25:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[15-Mar-2025 03:26:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[15-Mar-2025 03:34:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[15-Mar-2025 03:34:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[15-Mar-2025 03:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[15-Mar-2025 03:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[15-Mar-2025 03:38:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[15-Mar-2025 03:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[15-Mar-2025 03:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[15-Mar-2025 03:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[15-Mar-2025 03:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[15-Mar-2025 03:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[15-Mar-2025 03:44:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[15-Mar-2025 03:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[15-Mar-2025 03:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[15-Mar-2025 03:47:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[15-Mar-2025 03:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[15-Mar-2025 03:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[15-Mar-2025 03:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[15-Mar-2025 03:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[15-Mar-2025 03:53:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[15-Mar-2025 03:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[15-Mar-2025 03:56:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[05-Apr-2025 08:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[05-Apr-2025 08:56:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[05-Apr-2025 08:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[05-Apr-2025 09:21:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[05-Apr-2025 10:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[05-Apr-2025 11:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[05-Apr-2025 11:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[05-Apr-2025 13:02:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[05-Apr-2025 13:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[05-Apr-2025 13:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[05-Apr-2025 13:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[05-Apr-2025 17:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[05-Apr-2025 17:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[05-Apr-2025 18:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[05-Apr-2025 18:54:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[05-Apr-2025 22:00:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[05-Apr-2025 22:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[05-Apr-2025 22:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[05-Apr-2025 22:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[05-Apr-2025 22:42:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[05-Apr-2025 23:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[10-Apr-2025 18:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[10-Apr-2025 19:56:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[10-Apr-2025 20:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[10-Apr-2025 21:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[10-Apr-2025 21:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[10-Apr-2025 21:52:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[10-Apr-2025 22:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[10-Apr-2025 22:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[10-Apr-2025 22:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[10-Apr-2025 22:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[10-Apr-2025 22:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[10-Apr-2025 22:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[10-Apr-2025 22:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[10-Apr-2025 23:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[10-Apr-2025 23:26:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[10-Apr-2025 23:40:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[11-Apr-2025 00:21:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[11-Apr-2025 00:30:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[11-Apr-2025 00:39:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[11-Apr-2025 00:51:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[11-Apr-2025 00:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[11-Apr-2025 01:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[11-Apr-2025 01:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[11-Apr-2025 01:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[11-Apr-2025 01:47:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[11-Apr-2025 01:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[11-Apr-2025 02:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[11-Apr-2025 02:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Bid.php on line 8
+[11-Apr-2025 02:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[11-Apr-2025 03:29:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[11-Apr-2025 03:33:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[11-Apr-2025 03:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[11-Apr-2025 03:48:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[11-Apr-2025 03:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleType.php on line 8
+[11-Apr-2025 04:04:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[11-Apr-2025 04:06:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverCarType.php on line 8
+[11-Apr-2025 04:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[11-Apr-2025 04:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[11-Apr-2025 04:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[11-Apr-2025 04:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/FreightOrder.php on line 8
+[11-Apr-2025 05:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[11-Apr-2025 05:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[11-Apr-2025 05:32:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarProductionYear.php on line 8
+[11-Apr-2025 06:05:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverVehicleImages.php on line 8
+[11-Apr-2025 06:20:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[11-Apr-2025 06:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[11-Apr-2025 07:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Order.php on line 8
+[11-Apr-2025 07:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Car.php on line 8
+[11-Apr-2025 07:45:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[11-Apr-2025 07:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8
+[11-Apr-2025 08:02:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverTransaction.php on line 9
+[11-Apr-2025 08:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Chat.php on line 10
+[11-Apr-2025 08:05:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Rating.php on line 8
+[11-Apr-2025 08:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Transaction.php on line 8
+[11-Apr-2025 08:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverSupport.php on line 7
+[11-Apr-2025 08:37:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CarType.php on line 8
+[11-Apr-2025 08:46:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 10
+[11-Apr-2025 08:46:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/User.php on line 11
+[11-Apr-2025 08:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CustomerSupport.php on line 7
+[11-Apr-2025 09:04:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserType.php on line 8
+[11-Apr-2025 09:25:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/UserPaymentMethods.php on line 8
+[11-Apr-2025 09:39:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/CityToCityOrders.php on line 8
+[11-Apr-2025 13:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Models/DriverProofs.php on line 8

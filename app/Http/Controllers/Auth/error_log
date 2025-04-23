@@ -1,0 +1,64 @@
+[07-Feb-2025 17:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 18
+[07-Feb-2025 22:35:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 18
+[07-Feb-2025 23:52:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 18
+[11-Feb-2025 06:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 18
+[25-Feb-2025 09:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 19
+[14-Mar-2025 12:38:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[14-Mar-2025 15:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[14-Mar-2025 17:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[14-Mar-2025 17:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[14-Mar-2025 20:26:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[15-Mar-2025 01:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[15-Mar-2025 01:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[11-Apr-2025 03:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[11-Apr-2025 09:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[11-Apr-2025 15:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20
+[11-Apr-2025 22:12:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/Auth/RegisterController.php on line 20

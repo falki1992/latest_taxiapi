@@ -1,0 +1,8 @@
+[15-Nov-2024 17:05:56 Asia/Karachi] PHP Fatal error:  Cannot use positional argument after named argument in /home/taxiirid/taxiapi.taxiirides.com/routes/api.php on line 113
+[17-Nov-2024 15:22:26 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Models\Driver::driverProofs() in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 61
+[17-Nov-2024 15:22:31 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Models\Driver::driverProofs() in /home/taxiirid/taxiapi.taxiirides.com/app/Models/Driver.php on line 61
+[13-Mar-2025 21:24:22 Asia/Karachi] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\DB" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 29
+[13-Mar-2025 21:25:03 Asia/Karachi] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\DB" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[13-Mar-2025 21:25:27 Asia/Karachi] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\DB" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[13-Mar-2025 21:25:30 Asia/Karachi] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\DB" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
+[13-Mar-2025 21:25:31 Asia/Karachi] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\DB" not found in /home/taxiirid/taxiapi.taxiirides.com/app/Http/Controllers/DriverController.php on line 25
